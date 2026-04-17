@@ -1,10 +1,10 @@
-# 📊 SQL Data Analytics Project
+# SQL Data Analytics Project
 
 A practical collection of SQL scripts for analyzing and reporting on data stored in relational databases. This project is designed to support **data exploration**, **segmentation**, **KPI tracking**, **time-based analysis**, and more using clean and modular SQL queries.
 
 ---
 
-## 📂 What's Inside
+## What's Inside
 This project features a series of analytical SQL scripts, each focusing on a distinct use case:
 
 - 🧭 **Database Exploration** – Understand tables, columns, and relationships
@@ -24,21 +24,16 @@ Each script is modular and designed for reuse or extension in your own SQL proje
 
 ---
 
-## 👥 Who It's For
-- 📊 Data Analysts
-- 📉 Business Intelligence Developers
-- 📚 Learners looking to improve SQL analysis skills
+##  Who It's For
+- Data Analysts
+- Business Intelligence Developers
+- Learners looking to improve SQL analysis skills
 
 ---
 
 ## ✨ Features
-- ✅ Well-structured and readable queries
-- 🔄 Reusable logic for dashboards and reporting tools
-- ⚡ Clear Descriptive Insights
-- 📦 Focus on scalability and performance
-
----
-
-## 🛠️ Usage
-Feel free to copy, modify, or extend these scripts to fit your own projects. Each script is focused on a specific analytic purpose and can be used independently or combined for deeper insights.
+- Well-structured and readable queries
+- Reusable logic for dashboards and reporting tools
+- Clear Descriptive Insights
+- Focus on scalability and performance
 
