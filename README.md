@@ -1,4 +1,4 @@
-# SQL Data Analytics Project
+# Advanced SQL Data Analytics Project
 
 A practical collection of SQL scripts for analyzing and reporting on data stored in relational databases. This project is designed to support **data exploration**, **segmentation**, **KPI tracking**, **time-based analysis**, and more using clean and modular SQL queries.
 
